@@ -1,0 +1,1 @@
+This repository consists of the personal code samples, practice projects, assignments, and notes for Python Development.
